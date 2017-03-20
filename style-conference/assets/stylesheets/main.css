@@ -1,0 +1,15 @@
+article ~ p {
+    color: aquamarine;
+}
+
+label {
+  color: #0087cc;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  padding: 5px 9px;
+
+}
+label:hover {
+  color: #ff7b29;
+}
